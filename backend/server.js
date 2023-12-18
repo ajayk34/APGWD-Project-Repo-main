@@ -4,6 +4,7 @@ const cors = require("cors");
 
 const AuthModel = require("./models/Auth");
 
+
 const User = require("./db/user");
 const District = require("./db/district");
 
